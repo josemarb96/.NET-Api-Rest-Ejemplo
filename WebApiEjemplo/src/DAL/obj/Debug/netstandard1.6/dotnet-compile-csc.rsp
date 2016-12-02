@@ -8,8 +8,8 @@
 -debug:full
 -nostdlib
 -nologo
-"E:\Fernando\WebApiEjemplo\src\DAL\obj\Debug\netstandard1.6\dotnet-compile.assemblyinfo.cs"
--out:"E:\Fernando\WebApiEjemplo\src\DAL\bin\Debug\netstandard1.6\DAL.dll"
+"E:\Fernando\ApiRestEjemplo\WebApiEjemplo\src\DAL\obj\Debug\netstandard1.6\dotnet-compile.assemblyinfo.cs"
+-out:"E:\Fernando\ApiRestEjemplo\WebApiEjemplo\src\DAL\bin\Debug\netstandard1.6\DAL.dll"
 -r:"C:\Users\jmramirez\.nuget\packages\Microsoft.Win32.Primitives\4.0.1\ref\netstandard1.3\Microsoft.Win32.Primitives.dll"
 -r:"C:\Users\jmramirez\.nuget\packages\System.AppContext\4.1.0\ref\netstandard1.6\System.AppContext.dll"
 -r:"C:\Users\jmramirez\.nuget\packages\System.Collections\4.0.11\ref\netstandard1.3\System.Collections.dll"
@@ -57,8 +57,8 @@
 -r:"C:\Users\jmramirez\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\jmramirez\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\jmramirez\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll"
--r:"E:\Fernando\WebApiEjemplo\src\ENT\bin\Debug\netstandard1.6\ENT.dll"
-"E:\Fernando\WebApiEjemplo\src\DAL\Conexion\clsMyConnection.cs"
-"E:\Fernando\WebApiEjemplo\src\DAL\Listado\clsListados_DAL.cs"
-"E:\Fernando\WebApiEjemplo\src\DAL\Manejadora\clsManejadora_DAL.cs"
-"E:\Fernando\WebApiEjemplo\src\DAL\Properties\AssemblyInfo.cs"
+-r:"E:\Fernando\ApiRestEjemplo\WebApiEjemplo\src\ENT\bin\Debug\netstandard1.6\ENT.dll"
+"E:\Fernando\ApiRestEjemplo\WebApiEjemplo\src\DAL\Conexion\clsMyConnection.cs"
+"E:\Fernando\ApiRestEjemplo\WebApiEjemplo\src\DAL\Listado\clsListados_DAL.cs"
+"E:\Fernando\ApiRestEjemplo\WebApiEjemplo\src\DAL\Manejadora\clsManejadora_DAL.cs"
+"E:\Fernando\ApiRestEjemplo\WebApiEjemplo\src\DAL\Properties\AssemblyInfo.cs"

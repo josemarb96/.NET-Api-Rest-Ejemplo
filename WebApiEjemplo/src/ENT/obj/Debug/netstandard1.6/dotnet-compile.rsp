@@ -1,5 +1,5 @@
---temp-output:E:\Fernando\WebApiEjemplo\src\ENT\obj\Debug\netstandard1.6\
---out:E:\Fernando\WebApiEjemplo\src\ENT\bin\Debug\netstandard1.6\ENT.dll
+--temp-output:E:\Fernando\ApiRestEjemplo\WebApiEjemplo\src\ENT\obj\Debug\netstandard1.6\
+--out:E:\Fernando\ApiRestEjemplo\WebApiEjemplo\src\ENT\bin\Debug\netstandard1.6\ENT.dll
 --define:DEBUG
 --define:TRACE
 --define:NETSTANDARD1_6
@@ -57,5 +57,5 @@
 --reference:C:\Users\jmramirez\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\jmramirez\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\jmramirez\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
-E:\Fernando\WebApiEjemplo\src\ENT\clsPersona.cs
-E:\Fernando\WebApiEjemplo\src\ENT\Properties\AssemblyInfo.cs
+E:\Fernando\ApiRestEjemplo\WebApiEjemplo\src\ENT\clsPersona.cs
+E:\Fernando\ApiRestEjemplo\WebApiEjemplo\src\ENT\Properties\AssemblyInfo.cs

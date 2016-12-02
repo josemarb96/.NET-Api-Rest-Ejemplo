@@ -164,14 +164,21 @@ namespace DAL.Manejadora
                 miCommand.Connection = conexion;
 
                 lector = miCommand.ExecuteReader();
-                lector.Read();
 
-                persona.ID = id;
-                persona.Nombre = (String)lector["nombre"];
-                persona.Apellidos = (String)lector["apellidos"];
-                persona.FechaNac = (DateTime)lector["fechaNac"];
-                persona.Direccion = (String)lector["direccion"];
-                persona.Telefono = (String)lector["telefono"];
+                if (lector.HasRows) //Si la persona existe se muestra, sino no
+                {
+                    if (lector.Read())
+                    {
+                        persona.ID = id;
+                        persona.Nombre = (String)lector["nombre"];
+                        persona.Apellidos = (String)lector["apellidos"];
+                        persona.FechaNac = (DateTime)lector["fechaNac"];
+                        persona.Direccion = (String)lector["direccion"];
+                        persona.Telefono = (String)lector["telefono"];
+                    }
+                }
+                else
+                    persona = null;
 
                 return persona;
             }

@@ -1,5 +1,5 @@
---temp-output:E:\Fernando\WebApiEjemplo\src\WebApiEjemplo\obj\Debug\netcoreapp1.0\
---out:E:\Fernando\WebApiEjemplo\src\WebApiEjemplo\bin\Debug\netcoreapp1.0\WebApiEjemplo.dll
+--temp-output:E:\Fernando\ApiRestEjemplo\WebApiEjemplo\src\WebApiEjemplo\obj\Debug\netcoreapp1.0\
+--out:E:\Fernando\ApiRestEjemplo\WebApiEjemplo\src\WebApiEjemplo\bin\Debug\netcoreapp1.0\WebApiEjemplo.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -176,10 +176,10 @@
 --reference:C:\Users\jmramirez\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\jmramirez\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\jmramirez\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---reference:E:\Fernando\WebApiEjemplo\src\BL\bin\Debug\netstandard1.6\BL.dll
---reference:E:\Fernando\WebApiEjemplo\src\DAL\bin\Debug\netstandard1.6\DAL.dll
---reference:E:\Fernando\WebApiEjemplo\src\ENT\bin\Debug\netstandard1.6\ENT.dll
---resource:"E:\Fernando\WebApiEjemplo\src\WebApiEjemplo\obj\Debug\netcoreapp1.0\WebApiEjemplodotnet-compile.deps.json",WebApiEjemplo.deps.json
-E:\Fernando\WebApiEjemplo\src\WebApiEjemplo\Program.cs
-E:\Fernando\WebApiEjemplo\src\WebApiEjemplo\Startup.cs
-E:\Fernando\WebApiEjemplo\src\WebApiEjemplo\Controllers\ValuesController.cs
+--reference:E:\Fernando\ApiRestEjemplo\WebApiEjemplo\src\BL\bin\Debug\netstandard1.6\BL.dll
+--reference:E:\Fernando\ApiRestEjemplo\WebApiEjemplo\src\DAL\bin\Debug\netstandard1.6\DAL.dll
+--reference:E:\Fernando\ApiRestEjemplo\WebApiEjemplo\src\ENT\bin\Debug\netstandard1.6\ENT.dll
+--resource:"E:\Fernando\ApiRestEjemplo\WebApiEjemplo\src\WebApiEjemplo\obj\Debug\netcoreapp1.0\WebApiEjemplodotnet-compile.deps.json",WebApiEjemplo.deps.json
+E:\Fernando\ApiRestEjemplo\WebApiEjemplo\src\WebApiEjemplo\Program.cs
+E:\Fernando\ApiRestEjemplo\WebApiEjemplo\src\WebApiEjemplo\Startup.cs
+E:\Fernando\ApiRestEjemplo\WebApiEjemplo\src\WebApiEjemplo\Controllers\ValuesController.cs

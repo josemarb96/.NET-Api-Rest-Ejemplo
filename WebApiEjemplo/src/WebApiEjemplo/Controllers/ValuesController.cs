@@ -21,9 +21,18 @@ namespace WebApiEjemplo.Controllers
 
         // GET api/values/5
         [HttpGet("{id}")]
-        public clsPersona Get(int id)
+        public IActionResult Get(int id)
         {
-            return new clsManejadora_BL().selectPersonaBL(id);
+            //Si se manda id de alguna persona que no existe, salta el error 404
+            clsPersona persona;
+            persona = new clsManejadora_BL().selectPersonaBL(id);
+
+            if (persona != null)
+            {
+                return new ObjectResult(persona);
+            }
+            else
+                return NotFound();
         }
 
         // POST api/values

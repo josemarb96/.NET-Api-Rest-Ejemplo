@@ -1,5 +1,5 @@
---temp-output:E:\Fernando\WebApiEjemplo\src\DAL\obj\Debug\netstandard1.6\
---out:E:\Fernando\WebApiEjemplo\src\DAL\bin\Debug\netstandard1.6\DAL.dll
+--temp-output:E:\Fernando\ApiRestEjemplo\WebApiEjemplo\src\DAL\obj\Debug\netstandard1.6\
+--out:E:\Fernando\ApiRestEjemplo\WebApiEjemplo\src\DAL\bin\Debug\netstandard1.6\DAL.dll
 --define:DEBUG
 --define:TRACE
 --define:NETSTANDARD1_6
@@ -59,8 +59,8 @@
 --reference:C:\Users\jmramirez\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\jmramirez\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\jmramirez\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---reference:E:\Fernando\WebApiEjemplo\src\ENT\bin\Debug\netstandard1.6\ENT.dll
-E:\Fernando\WebApiEjemplo\src\DAL\Conexion\clsMyConnection.cs
-E:\Fernando\WebApiEjemplo\src\DAL\Listado\clsListados_DAL.cs
-E:\Fernando\WebApiEjemplo\src\DAL\Manejadora\clsManejadora_DAL.cs
-E:\Fernando\WebApiEjemplo\src\DAL\Properties\AssemblyInfo.cs
+--reference:E:\Fernando\ApiRestEjemplo\WebApiEjemplo\src\ENT\bin\Debug\netstandard1.6\ENT.dll
+E:\Fernando\ApiRestEjemplo\WebApiEjemplo\src\DAL\Conexion\clsMyConnection.cs
+E:\Fernando\ApiRestEjemplo\WebApiEjemplo\src\DAL\Listado\clsListados_DAL.cs
+E:\Fernando\ApiRestEjemplo\WebApiEjemplo\src\DAL\Manejadora\clsManejadora_DAL.cs
+E:\Fernando\ApiRestEjemplo\WebApiEjemplo\src\DAL\Properties\AssemblyInfo.cs
