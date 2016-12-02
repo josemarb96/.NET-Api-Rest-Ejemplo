@@ -1,0 +1,12 @@
+#:E:\Fernando\WebApiEjemplo\src\DAL\DAL.xproj
+E:\Fernando\WebApiEjemplo\src\DAL\DAL.xproj|E:\Fernando\WebApiEjemplo\src\ENT\ENT.xproj
+#:E:\Fernando\WebApiEjemplo\src\WebApiEjemplo\WebApiEjemplo.xproj
+E:\Fernando\WebApiEjemplo\src\WebApiEjemplo\WebApiEjemplo.xproj|E:\Fernando\WebApiEjemplo\src\BL\BL.xproj
+E:\Fernando\WebApiEjemplo\src\WebApiEjemplo\WebApiEjemplo.xproj|E:\Fernando\WebApiEjemplo\src\ENT\ENT.xproj
+E:\Fernando\WebApiEjemplo\src\BL\BL.xproj|E:\Fernando\WebApiEjemplo\src\DAL\DAL.xproj
+E:\Fernando\WebApiEjemplo\src\BL\BL.xproj|E:\Fernando\WebApiEjemplo\src\ENT\ENT.xproj
+E:\Fernando\WebApiEjemplo\src\DAL\DAL.xproj|E:\Fernando\WebApiEjemplo\src\ENT\ENT.xproj
+#:E:\Fernando\WebApiEjemplo\src\BL\BL.xproj
+E:\Fernando\WebApiEjemplo\src\BL\BL.xproj|E:\Fernando\WebApiEjemplo\src\DAL\DAL.xproj
+E:\Fernando\WebApiEjemplo\src\BL\BL.xproj|E:\Fernando\WebApiEjemplo\src\ENT\ENT.xproj
+E:\Fernando\WebApiEjemplo\src\DAL\DAL.xproj|E:\Fernando\WebApiEjemplo\src\ENT\ENT.xproj
